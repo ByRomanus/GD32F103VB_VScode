@@ -1,0 +1,3 @@
+C:/Workspace/Work/Templates/GD32F103VB_VScode/build/CMakeFiles/GD32F103.elf.dir
+C:/Workspace/Work/Templates/GD32F103VB_VScode/build/CMakeFiles/edit_cache.dir
+C:/Workspace/Work/Templates/GD32F103VB_VScode/build/CMakeFiles/rebuild_cache.dir
